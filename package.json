@@ -1,6 +1,6 @@
 {
   "name": "asma12-simple-calculator",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A simple calculator with TypeScript, Node.js and Inquirer.",
   "main": "index.js",
   "type": "module",
@@ -11,6 +11,7 @@
   "author": "Asma Akbar",
   "license": "MIT",
   "dependencies": {
+    "chalk": "^5.3.0",
     "inquirer": "^9.2.17"
   },
   "devDependencies": {
